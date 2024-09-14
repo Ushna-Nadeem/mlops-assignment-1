@@ -1,0 +1,25 @@
+# Python specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDE and editor-specific ignores
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Ignore large data files
+*.csv
+*.h5
+*.db
